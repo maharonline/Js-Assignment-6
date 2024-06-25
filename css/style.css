@@ -1,0 +1,17 @@
+.navbar{
+    color:#ffff !important;
+    background-color: #34495e  !important;
+}
+header{
+    background-color: #34495e ;
+}
+.navbar a{
+    color: #ffff !important;
+} 
+#button1 button{
+    min-width: 45% !important;
+    margin-top: 10px !important;
+    border-color: #34495e !important;
+    background-color: #34495e !important;
+
+}
